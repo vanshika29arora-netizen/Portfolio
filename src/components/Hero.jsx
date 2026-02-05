@@ -34,7 +34,7 @@ export default function Hero() {
 
         <div className="project-grid">
           <div className="project-card highlight">
-            <img src="/images/bb.jpg" alt="Fake News Detection" />
+            <img src="/Portfolio/images/bb.jpg" alt="Fake News Detection" />
             <h3>Fake News Detection System</h3>
             <p>Built a machine learning model to automatically classify news articles
         as <strong>Fake</strong> or <strong>Real</strong> using NLP techniques.
@@ -44,7 +44,7 @@ export default function Hero() {
           </div>
 
           <div className="project-card highlight">
-            <img src="/images/aa.jpg" alt="ECG Arrhythmia Detection" />
+            <img src="/Portfolio/images/aa.jpg" alt="ECG Arrhythmia Detection" />
             <h3>ECG Arrhythmia Detection</h3>
             <p>Developed a deep learning system to detect cardiac arrhythmias from ECG
         signals. Combined convolutional and sequential models to capture both
@@ -53,7 +53,7 @@ export default function Hero() {
           </div>
 
           <div className="project-card highlight">
-            <img src="/images/cc.jpg" alt="Decision Engine" />
+            <img src="/Portfolio//images/cc.jpg" alt="Decision Engine" />
             <h3>Multi-Language Translator</h3>
             <p>Built an AI-powered text translation system that converts English text into multiple languages using transformer-based NLP models. The application enables real-time translation with high accuracy, preserving contextual meaning.</p>
             <a href="https://huggingface.co/spaces/Vanee45-hii/language_translator" target="_blank" rel="noopener noreferrer" className="project-link" > App Link </a>
